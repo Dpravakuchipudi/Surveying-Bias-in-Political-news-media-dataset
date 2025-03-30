@@ -52,11 +52,3 @@ These corpora were tokenized, lemmatized, and cleaned for analysis.
 
 ---
 
-
-Let me know if you'd like to:
-- Add a `requirements.txt` for the libraries
-- Embed the 3D plot GIF or animation in the README
-- Make a citation in BibTeX format for academic use
-
-Want me to generate the actual `.md` file for you too?
-
